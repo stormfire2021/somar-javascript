@@ -1,0 +1,16 @@
+/* 
+autor = Fabiula Pellicciotti
+*/
+
+
+body{
+	background-color: #55565b;
+	color: #FFFFFF; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;	
+}
+.central{
+	margin-top: 100px;
+}
+input{
+	margin-bottom: 10px;
+}
